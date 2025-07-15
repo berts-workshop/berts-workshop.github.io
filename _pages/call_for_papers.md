@@ -28,7 +28,6 @@ All accepted submissions will be accompanied by a poster presentation. A number 
 ## Scope and Topics
 
 In line with the motivation of this workshop, we will solicit contributions related but not limited to the following broad topics:
-1) ; 2) Scaling Lawsand Efficiency in Time Series Models; 3) Evaluating Transferability and Adaptability of Foundation Models, 4)Leveraging Foundation Models of Other Modalities for Time Series, 5) , and 6) 
 
 1. **Benchmarking Foundation Models in Time Series**.
     - Proposals for new benchmarks and datasets with a significant performance gap compared to simpler models.
