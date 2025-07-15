@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <b>Workshop at the Conference on Neural Information Processing Systems (NeurIPS) 2025</b>
 
 profile:
   align: right
