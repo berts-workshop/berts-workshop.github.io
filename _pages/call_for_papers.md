@@ -27,17 +27,28 @@ All accepted submissions will be accompanied by a poster presentation. A number 
 
 ## Scope and Topics
 
-We invite submissions related to the theme of time series in the age of large models. Key topics include, but are not limited to:
+In line with the motivation of this workshop, we will solicit contributions related but not limited to the following broad topics:
+1) ; 2) Scaling Lawsand Efficiency in Time Series Models; 3) Evaluating Transferability and Adaptability of Foundation Models, 4)Leveraging Foundation Models of Other Modalities for Time Series, 5) , and 6) 
 
-- **Building Time Series Foundation Models**: The heterogeneity of time series data and tasks presents unique challenges in developing time series foundation models. We welcome contributions exploring various design choices and improving our understanding of how these models scale with the amount and diversity of data.
-- **Analysis of Pretrained Time Series Models**: Pretrained time series models are often criticized for their black-box nature, especially compared to interpretable statistical models. We encourage submissions that analyze pretrained time series models to enhance our understanding of their learning processes.
-- **Critiques on Time Series Foundation Models**: Contributions highlighting the limitations and failure modes of time series foundation models through theoretical analysis or systematic empirical evaluations are welcome.
-- **Faster and Better Inference Schemes for Autoregressive Time Series Models**: Single-step autoregressive time series foundation models are generally slower than multi-step models, such as those based on patching. We invite submissions comparing these techniques and developing methods to improve the inference speed and quality of autoregressive time series models.
-- **Leveraging Pretrained Models of Other Modalities for Time Series**: Recent studies show promise in adapting pretrained LLMs to specialized time series tasks. We seek to understand how design choices in leveraging these models—such as prompting techniques, adaptation methods, and fine-tuning—impact performance. We also seek to identify scenarios where these methods excel compared to training time series foundation models from scratch, in terms of model capabilities, accuracy, and training and inference times.
-- **Multimodal Time Series Models**: Most time series models handle only numerical data, often providing a partial picture of the system of interest. In real-world settings, multiple modalities are available, and incorporating exogenous information, such as text, can enhance performance. We invite submissions exploring time series models that integrate information from other modalities.
-- **Large-Scale Time Series Datasets and Benchmarks**: The quality and quantity of publicly available time series data lag behind other modalities, such as text and vision. We welcome contributions of large-scale time series data (both general and domain-specific) and benchmarks comparing various time series foundation models. We also invite methods for better synthetic time series generation and augmentation to address data challenges.
-- **Time Series Evaluation**: We seek contributions on the analysis, comparison, and development of metrics for time series tasks, including metrics for probabilistic forecasting, multivariate forecasting, and use-case motivated metrics.
-- **Real-World Applications of Large Time Series Models**: We invite contributions showcasing the potential of large time series models in real-world domains, such as energy, healthcare, retail, human mobility, and finance.
+1. **Benchmarking Foundation Models in Time Series**.
+    - Proposals for new benchmarks and datasets with a significant performance gap compared to simpler models.
+    - Criteria and metrics for robust benchmarking of time series models, with a focus on OOD generalization.
+2. **Scaling Laws and Efficiency in Time Series Models**.
+    - Investigating the scaling laws in TSFMs, especially for classification and multivariate forecasting.
+    - Understanding the efficiency of TSFMs across different architectures, sizes of models and pre-training datasets.
+3. **Evaluating Transferability and Adaptability of Foundation Models**.
+    - Techniques for assessing the adaptability of foundation models in new or evolving time series environments.
+    - The role of data diversity and pretraining in improving model transferability across time series tasks.
+4. **Leveraging Foundation Models of Other Modalities for Time Series**.
+    - FMs trained on other data modalities that are applied to time series.
+    - Techniques used for the representation alignment of the different data modalities.
+5. **Unsupervised Analysis and Performance Estimation of TSFMs**.
+    - Predicting the efficiency of TSFMs on new previously unseen datasets.
+    - Estimating the calibration and the uncertainty of TSFMs.
+6. **Industrial Benchmarking of TSFMs**.
+    - Usability of TSFMs for complex real-world problems.
+    - Domain-specific analysis of TSFMS.
+
 
 ## Reviewer Guidelines
 
@@ -74,4 +85,4 @@ A review should have the following content.
 
 ## Contact
 
-If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact [thomas.moreau@inria.fr](mailto:thomas.moreau@inria.fr).
+If you have questions about this workshop or are not sure if your paper's topic is suitable for submission, please feel free to contact [thomas.moreau@inria.fr](mailto:thomas.moreau@inria.fr) and [ievgen.redko@gmail.com](mailto:ievgen.redko@gmail.com).
