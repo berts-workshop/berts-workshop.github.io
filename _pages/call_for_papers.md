@@ -13,9 +13,9 @@ Have We Reached the BERT Moment?**.
 ## Key Information
 
 - Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S)**
-- Submission deadline: Aug 22, 2025 (11:59 pm AoE)
-- Acceptance notification: Oct 1, 2025 (11:59 pm AoE)
-- Camera ready deadline: Nov 19, 2025 (11:59 pm AoE)
+- Submission deadline: (**To be confirmed soon**) Aug 22, 2025 (11:59 pm AoE)
+- Acceptance notification: (**To be confirmed soon**) Oct 1, 2025 (11:59 pm AoE)
+- Camera ready deadline: (**To be confirmed soon**) Nov 19, 2025 (11:59 pm AoE)
 
 ## Submission Instructions
 
