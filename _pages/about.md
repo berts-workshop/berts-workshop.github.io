@@ -27,34 +27,25 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-The NeurIPS workshop on **Recent Advances on Time Series Foundation Models: Have We Reached the BERT Moment** will be held at the Vancouver Convention Center on **December 15, 2024**.
-We look forward to welcoming you in Vancouver. 
+The NeurIPS workshop on **Recent Advances on Time Series Foundation Models: Have We Reached the BERT Moment** will be held at the San Diego Convention Center on **December 6, 2025**.
+A hackathon will be organized shortly after the workshop to foster the development of benchmarks and applications where TSFMs can truly shine. Details will be provided in time. We look forward to welcoming you to San Diego. 
 
-The list of accepted papers is available [here](/accepted-papers/) and the PDFs are available at the linked OpenReview pages. 
-
-Post workshop, we created a Slack workspace to bring time series researchers together. If you would like to join the workspace, please email the organizers and request an invite link.
+<i>Location</i>: San Diego Convention Center<br>
+<i>Date</i>: Saturday 6<sup>th</sup> December 2025
 
 ### Introduction
 
-Foundation models have revolutionized the approach to building machine learning models in areas like natural language processing, where models are pretrained on large amounts of diverse data and then adapted for downstreams tasks, often in a _zero-shot_ fashion.
-This approach has begun to gain traction in the time series community.
-Recent works have developed and open-sourced foundation models for time series tasks, particularly forecasting.
-Additionally, some studies have shown positive results by either leveraging pretrained models from other modalities, such as text, for time series tasks or enhancing time series analysis through exogenous information from other modalities.
-These advancements have opened new research directions and challenges related to the development, analysis, evaluation, and real-world applications of large models for time series tasks.
-This workshop aims to provide a forum for researchers and practitioners to understand the progress made and push the frontier of time series research in the era of large models.
+Foundation models (FMs) have achieved great success in NLP and vision, inspiring over 20 new time series FMs (TSFMs) in the past year. Despite promising results, studies show that carefully designed lightweight supervised baselines often match TSFM performance. Unlike NLP's "BERT Moment," TSFMs still require full fine-tuning to be competitive in real-world scenarios. Additionally, some tabular FMs rival TSFMs without being time series-specific. Recent benchmarks also provide mixed evidence: GIFT-Eval favors TSFMs, OpenTS shows statistical models outperforming deep learning on univariate data, and FoundTS finds supervised baselines on par with TSFMs. This workshop aims to bring together researchers to examine the gap between TSFM potential and real-world utility, and to identify benchmarks and applications where TSFMs can truly excel.
 
 The key topics of this workshop include, but are not limited to:
-- Building Time Series Foundation Models
-- Analysis of Pretrained Time Series Models
-- Critiques on Time Series Foundation Models
-- Faster and Better Inference Schemes for Autoregressive Time Series Models
-- Leveraging Pretrained Models of Other Modalities for Time Series
-- Multimodal Time Series Models
-- Large-Scale Time Series Datasets and Benchmarks
-- Time Series Evaluation
-- Real-World Applications of Large Time Series Models
+- Benchmarking Foundation Models in Time Series,
+- Scaling Laws and Efficiency in Time Series Models,
+- Evaluating Transferability and Adaptability of Foundation Models,
+- Leveraging Foundation Models of Other Modalities for Time Series,
+- Unsupervised performance estimation of TSFMs,
+- Industrial Benchmarking of Time Series Foundation Models
 
-Please see the [Call for Papers](/call-for-papers/) for details.
+More details are provided in our [Call for Papers](/call-for-papers/).
 
 ### Schedule
 
