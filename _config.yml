@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Recent Advances in Time Series Foundation Models # the website title (if blank, full name will be used instead)
+title: Recent Advances in Time Series Foundation Models (BERT<sup>2</sup>S) # the website title (if blank, full name will be used instead)
 first_name:  test 
 middle_name: middle test
 last_name: last test
