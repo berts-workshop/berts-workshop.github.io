@@ -50,8 +50,8 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 
 | **Time (PST)**                                | **Event**                                                                                                                                                                   |
 |:------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 08:15 - 08:25                 | 🎤 **Opening Remarks**                                                                                                                                              |
-| 08:25 - 09:00                 | 🎓 **Invited Talk by Tomas Pfister** <br /> <small>Multimodal Time Series Modeling<small/>                                                                                       |
+| 9:30 - 09:45                  | 🥁 **Welcome and introduction**                                                                                                                                              |
+| 08:25 - 09:00                 | 🎓 **Invited Talk by <a href="https://www.cs.cmu.edu/~atalwalk/">Ameet Talwalkar</a>** <br /> <small>TSFMs Struggle to Beat Supervised Baselines<small/>                                                                                       |
 | 09:00 - 09:12                 | 📢 **Contributed Oral Talk** <br /> <small>Partial Channel Dependence with Channel Masks for Time Series Foundation Model<small/>                                                                              |
 | 09:12 - 09:17                 | 💡 **Contributed Spotlight Talk** <br /> <small>Time Series under Temporal Label Noise<small/>                                                                                                                 |
 | 09:17 - 09:29                 | 📢 **Contributed Oral Talk** <br /> <small>PaPaGei: Open Foundation Models for Optical Physiological Signals<small/>                                                                                           |
