@@ -46,7 +46,7 @@ More details are provided in our [Call for Papers](/call-for-papers/).
 
 ### Schedule
 **Saturday 7th December 2025, Meeting Room XX, San Diego Convention Center** <br>
-This is a tentative schedule that is subject to change. Refer to the [NeurIPS website](https://neurips.cc/) for the detailed schedule.
+This is a tentative schedule subject to change. Please take a look at the [NeurIPS website](https://neurips.cc/) for the detailed schedule.
 
 | **Time (PST)**                                | **Event**                                                                                                                                                                   |
 |:------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
