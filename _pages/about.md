@@ -45,10 +45,8 @@ The key topics of this workshop include, but are not limited to:
 More details are provided in our [Call for Papers](/call-for-papers/).
 
 ### Schedule
-
-**Sunday 15th December 2024, West Meeting Room 220-222, Vancouver Convention Center**
-
-Refer to the [NeurIPS website](https://neurips.cc/virtual/2024/workshop/84712) for the detailed schedule.
+**Saturday 7th December 2025, Meeting Room XX, San Diego Convention Center** <br>
+This is a tentative schedule that is subject to change. Refer to the [NeurIPS website](https://neurips.cc/) for the detailed schedule.
 
 | **Time (PST)**                                | **Event**                                                                                                                                                                   |
 |:------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
