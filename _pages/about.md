@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <b>Workshop at the Conference on Neural Information Processing Systems (NeurIPS) 2025</b>
 
