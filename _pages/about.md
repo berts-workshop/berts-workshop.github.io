@@ -53,25 +53,20 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 | 9:30 - 09:45                  | 🥁 **Welcome and introduction**                                                                                                                                              |
 | 9:45 - 10:15                  | 📢 **Invited Talk by <a href="https://www.cs.cmu.edu/~atalwalk/">Ameet Talwalkar</a>** <br /> <small>TSFMs Struggle to Beat Supervised Baselines<small/>                                                                                       |
 | 10:20 - 10:50                 | 📢 **Invited Talk by <a href="https://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a>** <br /> <small>BERT-Style Foundation Model for Time Series Understanding<small/>                                                                           |
-| 10:50 - 11:05                 | ☕ **Coffee & Networking Break** <br />                                                                                                                |
+| 10:50 - 11:05                 | ☕ **Coffee & Networking Break**                                                                                                             |
 | 11:10 - 11:25                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                                           |
 | 11:25 - 11:40                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                                                          |
 | 11:40 - 12:40                 | 📑 **Poster Session 1**                                                                                                                                   |
 | 12:40 - 13:40                 | 🦞 **Lunch Break**   |
 | 13:45 - 14:15                 | 📢 **Invited Talk by <a href="https://dcmaddix.github.io/">Danielle M. Robinson</a>** <br /> <small>Foundation Models and Benchmarks with Chronos and GluonTS<small/>                                                                             |
 | 14:20 - 14:50                 | 📢 **Invited Talk by <a href="https://www.zoepiran.com/en/latest/">Zoe Piran</a>** <br /> <small>Temporal Dynamics of Single-Cell Co-Essay Data<small/>                                         |
-| 12:00 - 13:00                 | 🥗 **Lunch Break**                                                                                                                                                             |
-| 13:00 - 14:00                 | 🖼️ **Poster Session 2**                                                                                                                                 |
-| 14:00 - 14:35                 | 🎓 **Invited Talk by Qingsong Wen** <br /> <small>LLM and Foundation Models for Time Series Analysis<small/>                                                                     |
-| 14:35 - 14:47                 | 📢 **Contributed Oral Talk** <br /> <small>Towards Time-Series Reasoning with LLMs<small/>                                                                                                                     |
-| 14:47 - 14:53                 | 💡 **Contributed Spotlight Talk** <br /> <small>Benchmarking out-of-the-box forecasters of varying scales in biology<small/>                                                                                   |
-| 14:53 - 15:30                 | ☕ **Coffee Break**                                                                                                                                     |
-| 15:30 - 15:42                 | 📢 **Contributed Oral Talk** <br /> <small>Scaling-laws for Large Time-series Models<small/>                                                                                                                   |
-| 15:42 - 15:47                 | 💡 **Contributed Spotlight Talk** <br /> <small>Towards Resolution-Aware Retrieval Augmented Zero-Shot Forecasting<small/>                                                                                     |
-| 15:47 - 16:22                 | 🎓 **Invited Talk by Mihaela van der Schaar** <br /> <small>From Data to Discovery: LLM's Role in Advancing Science<small/>                                              |                                                                                                                           |             |
-| 16:22 - 16:34                 | 📢 **Contributed Oral Talk** <br /> <small>Maven: A Multimodal Foundation Model for Supernova Science<small/>                                                                                                  |
-| 16:34 - 16:39                 | 💡 **Contributed Spotlight Talk** <br /> <small>Mamba4Cast: Efficient Zero-Shot Time Series Forecasting with State Space Models<small/>                                                                        |
-| 16:39 - 17:14                 | 🎓 **Invited Talk by Andrew Gordon Wilson** <br /> <small>Why Should We Develop Language Models for Time Series Forecasting?<small/>                                          |
-| 17:14 - 17:19                 | 🎬 **Closing Remarks**                                          |
+| 14:50 - 15:05                 | ☕ **Coffee & Networking Break**                                                                                                                           |
+| 15:05 - 15:55                 | 🎓 **Pannel Discussion**                                                                                                                                                             |
+| 15:55 - 16:10                 | ☕ **Coffee & Networking Break**                                                                                                                           |
+| 16:10 - 16:25                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                                                                              |
+| 16:25 - 16:40                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                   |
+| 16:40 - 17:40                 | 📑 **Poster Session 2**                                                                                  |
+| 17:40 - 17:55                 | 🎬 **Concluding Remarks & Hackaton Ad**                                          |
+| 19:00 - 22:00                 | 🎬 **Social Event**                                          |
 {: .table}
 {: .table-striped}
