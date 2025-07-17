@@ -73,4 +73,4 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 
 ### Contact
 
-If you have questions, you can contact the organizers at [berts2025.workshop@gmail.com](mailto:berts2025.workshop@gmail.com) or reach out to [Thomas Moreau](mailto:thomas.moreau@inria.fr) and [Ievgen Redko](mailto:ievgen.redko@gmail.com).
+If you have questions, please send a mail at [berts2025.workshop@gmail.com](mailto:berts2025.workshop@gmail.com) or contact [Thomas Moreau](mailto:thomas.moreau@inria.fr) and [Ievgen Redko](mailto:ievgen.redko@gmail.com).
