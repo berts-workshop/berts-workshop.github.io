@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /speakers/
 title: Speakers
-description: The invited speakers will deliver diverse talks on the current state of TSFMs.
+description: List of invited speakers and panel members.
 nav: true
 nav_order: 7
 
