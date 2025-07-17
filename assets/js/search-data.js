@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/call-for-papers/";
           },
-        },{id: "nav-organizers",
-          title: "Organizers",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/organizers/";
-          },
         },{id: "nav-speakers",
           title: "Speakers",
           description: "List of invited speakers and panel members.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/speakers/";
+          },
+        },{id: "nav-organizers",
+          title: "Organizers",
+          description: "members of the lab or group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/organizers/";
           },
         },{id: "post-a-post-with-plotly-js",
         
