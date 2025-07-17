@@ -1,5 +1,1 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+[**Chenghao Liu**](https://sites.google.com/view/liuchenghao/home) is a research scientist at Salesforce Research Asia. He received Ph.D.  and B.S. from the School of Computer Science and Engineering at Zhejiang University in 2017 and 2011, respectively. His research interests are broadly in fundamental machine learning and time series analysis. He actively works on TSFMs, including MOIRAI, Time-FFM and MOIRAI-MoE. He has also contributed to GIFT-Eval time series forecasting benchmark. 
