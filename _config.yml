@@ -8,7 +8,7 @@ middle_name:
 last_name: 
 short_name: BERT<sup>2</sup>S
 contact_note: >
-  You can reach the organizers of BERT<sup>2</sup>S at berts2025.workshop@gmail.com.
+  You can reach the organizers of BERT<sup>2</sup>S at <a href="mailto:berts2025.workshop@gmail.com">berts2025.workshop@gmail.com</a>.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
