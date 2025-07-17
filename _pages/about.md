@@ -70,3 +70,7 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 | 19:00 - 22:00                 | 🍻 **Social Event**                                          |
 {: .table}
 {: .table-striped}
+
+### Contact
+
+If you have questions, you can contact the organizers at [berts2025.workshop@gmail.com](mailto:berts2025.workshop@gmail.com) or reach out to [Thomas Moreau](mailto:thomas.moreau@inria.fr) and [Ievgen Redko](mailto:ievgen.redko@gmail.com).
