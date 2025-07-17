@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-speakers",
           title: "Speakers",
-          description: "The invited speakers will deliver diverse talks on the current state of TSFMs.",
+          description: "List of invited speakers and panel members.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/speakers/";
