@@ -67,6 +67,6 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 | 16:25 - 16:40                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                   |
 | 16:40 - 17:40                 | 📑 **Poster Session 2**                                                                                  |
 | 17:40 - 17:55                 | 🎬 **Concluding Remarks & Hackaton Ad**                                          |
-| 19:00 - 22:00                 | 🎬 **Social Event**                                          |
+| 19:00 - 22:00                 | 🍻 **Social Event**                                          |
 {: .table}
 {: .table-striped}
