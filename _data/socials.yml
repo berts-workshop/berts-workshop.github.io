@@ -7,7 +7,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: berts.workshop@gmail.com # your email address
+# email: berts.workshop@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -45,7 +45,7 @@ email: berts.workshop@gmail.com # your email address
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-custom_social: # can be any name here other than the ones already defined above
-  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-  title: OpenReview
-  url: https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S&referrer=%5BHomepage%5D(%2F)
+# custom_social: # can be any name here other than the ones already defined above
+  # logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
+  # title: OpenReview
+  # url: https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S&referrer=%5BHomepage%5D(%2F)
