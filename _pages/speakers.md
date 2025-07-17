@@ -11,18 +11,32 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: speakers/talwalkar.md
+    content: speakers/liu.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
   - align: left
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: long.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+  - align: right
+    image: prof_pic.jpg
+    content: piran.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: left
+    image: prof_pic.jpg
+    content: robinson.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: right
+    image: prof_pic.jpg
+    content: talwalkar.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+  - align: left
+    image: prof_pic.jpg
+    content: wen.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
 ---
