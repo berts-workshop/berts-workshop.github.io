@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /speakers/
 title: Speakers
-description: members of the lab or group
+description: The invited speakers will deliver diverse talks on the current state of TSFMs.
 nav: true
 nav_order: 7
 
