@@ -16,27 +16,27 @@ profiles:
     more_info: >
   - align: left
     image: prof_pic.jpg
-    content: long.md
+    content: speakers/long.md
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: right
     image: prof_pic.jpg
-    content: piran.md
+    content: speakers/piran.md
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: left
     image: prof_pic.jpg
-    content: robinson.md
+    content: speakers/robinson.md
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: right
     image: prof_pic.jpg
-    content: talwalkar.md
+    content: speakers/talwalkar.md
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: left
     image: prof_pic.jpg
-    content: wen.md
+    content: speakers/wen.md
     image_circular: false # crops the image to make it circular
     more_info: >
 ---
