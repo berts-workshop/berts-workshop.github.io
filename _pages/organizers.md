@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /organizers/
 title: Organizers
-description: members of the lab or group
+description: List of BERT<sup>2</sup>S organizers.
 nav: true
 nav_order: 7
 
@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: prof_pic.jpg
+    image: organizers/thomas.png
     content: organizers/moreau.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -18,7 +18,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
+    image: organizers/ievgen.jpg
     content: organizers/redko.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -26,7 +26,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: right
-    image: prof_pic.jpg
+    image: organizers/romain.jpeg
     content: organizers/tavenard.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -34,7 +34,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
+    image: organizers/valentina.jpeg
     content: organizers/zantedeschi.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -42,7 +42,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: right
-    image: prof_pic.jpg
+    image: organizers/vasilii.jpeg
     content: organizers/feofanov.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -50,7 +50,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: prof_pic.jpg
+    image: organizers/thomas.png
     content: organizers/odonnat.md
     image_circular: false # crops the image to make it circular
     more_info: >
