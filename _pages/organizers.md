@@ -28,7 +28,7 @@ profiles:
     content: organizers/tavenard.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Inria - <a href="https://scholar.google.fr/citations?user=wn1XFWMAAAAJ">Scholar</a> </p>
+      <p>Univ. Rennes 2 - <a href="https://scholar.google.fr/citations?user=wn1XFWMAAAAJ">Scholar</a> </p>
       <p><a href="mailto:romain.tavenard@univ-rennes2.fr">romain.tavenard@univ-rennes2.fr</a></p>
   - align: left
     image: organizers/valentina.jpeg
@@ -49,6 +49,6 @@ profiles:
     content: organizers/odonnat.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Noah's Ark Lab, Inria - <a href="https://scholar.google.ch/citations?user=M_OS-3kAAAAJ">Scholar</a> </p>
+      <p>Inria - <a href="https://scholar.google.ch/citations?user=M_OS-3kAAAAJ">Scholar</a> </p>
       <p><a href="mailto:ambroise.odonnat@gmail.com">ambroise.odonnat@gmail.com</a></p>
 ---
