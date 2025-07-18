@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-organizers",
           title: "Organizers",
-          description: "members of the lab or group",
+          description: "List of BERT2S organizers.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/organizers/";
