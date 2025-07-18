@@ -43,7 +43,7 @@ In line with the motivation of this workshop, we will solicit contributions rela
     - Usability of TSFMs for complex real-world problems.
     - Domain-specific analysis of TSFMS.
 
-### Review Format
+## Reviewing Guidelines
 
 Reviewers should focus on the alignment between the submission and the main topics of this workshop and on the validity of the claims and evidence provided in the submission. We invite new reviewers to look at [TMLR guidelines](https://jmlr.org/tmlr/acceptance-criteria.html) or this [reviewing tutorial](https://youtu.be/EQBybU1sEEs?feature=shared) for inspiration. Reviews should include the following parts:
 
