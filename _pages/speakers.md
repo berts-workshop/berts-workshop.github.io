@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: right
-    image: speakers/liu.jpeg
+    image: speakers/liu.jpg
     content: speakers/liu.md
     image_circular: false # crops the image to make it circular
     more_info: >
@@ -25,12 +25,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: left
-    image: speakers/robinson.png
+    image: speakers/robinson.jpg
     content: speakers/robinson.md
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: right
-    image: speakers/talwalkar.jpg
+    image: speakers/talwalkar.jpeg
     content: speakers/talwalkar.md
     image_circular: false # crops the image to make it circular
     more_info: >
