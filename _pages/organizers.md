@@ -14,8 +14,8 @@ profiles:
     content: organizers/moreau.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Inria (France) - <a href="https://scholar.google.fr/citations?user=HEO_PsAAAAAJ">scholar</a> </p>
-      <p><a href="mailto:thomas.moreau@inria.fr">thomas.moreau@inria.fr</a></p>
+      <p style="text-align:center;">Inria (France) - <a href="https://scholar.google.fr/citations?user=HEO_PsAAAAAJ">scholar</a> </p>
+      <p style="text-align:center;"><a href="mailto:thomas.moreau@inria.fr">thomas.moreau@inria.fr</a></p>
   - align: left
     image: organizers/ievgen.jpg
     content: organizers/redko.md
