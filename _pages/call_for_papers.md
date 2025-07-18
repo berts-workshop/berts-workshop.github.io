@@ -8,7 +8,7 @@ nav_order: 1
 ---
 
 We welcome researchers working in the field of time series analysis to submit their latest original research work to the NeurIPS 2025 workshop on **Recent Advances in Time Series Foundation Models:
-Have We Reached the BERT Moment?**.
+Have We Reached the BERT Moment?**
 
 ## Key Information
 
