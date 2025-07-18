@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /organizers/
 title: Organizers
-description: List of BERT<sup>2</sup>S organizers.
+description: 
 nav: true
 nav_order: 7
 
