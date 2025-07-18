@@ -9,23 +9,20 @@ nav_order: 1
 
 We welcome researchers working in the field of time series analysis to submit their latest original research work to the NeurIPS 2025 workshop on **Recent Advances in Time Series Foundation Models:
 Have We Reached the BERT Moment?**
-
-## Key Information
-
 - Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S)**
 - Submission deadline: (**To be confirmed soon**), Aug 22, 2025 (11:59 pm AoE)
 - Acceptance notification: (**To be confirmed soon**), Oct 1, 2025 (11:59 pm AoE)
 - Camera ready deadline: (**To be confirmed soon**), Nov 19, 2025 (11:59 pm AoE)
 
-## Submission Instructions
+## Instructions and Formatting
 
-Submissions should take the form of a short paper of up to **4 pages**. Additional pages containing references and appendices are allowed but the reviewers are _not obliged_ to refer to the appendices when reviewing the paper. Submissions should be made on **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S)** in a single `.pdf` file using **[this LaTeX style template](../assets/zip/bert2s_workshop_latex_template.zip)**. The review process in _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
+We invite submissions under the form of short papers (up to **4 pages**). Additional pages containing references and appendices are allowed, but reviewers are _not obliged_ to take the appendices into account when reviewing. Submissions should be made on **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S)** in a single `.pdf` file using **[this LaTeX style template](../assets/zip/bert2s_workshop_latex_template.zip)**. The review process is _double-blind_, so please ensure that your submission is properly anonymized. Papers that exceed the page limit or have not been properly anonymized will be desk-rejected without review. Please note that there is no rebuttal phase, and the final decisions will be made based solely on the submission and the reviews. Rejected and withdrawn submissions will not be made public.
 
 All accepted submissions will be accompanied by a poster presentation. A number of selected submissions will be invited for lightning and oral talks. 
 
 **Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference, it should be reasonably extended in order to be accepted at this workshop. Parallel submission of papers under review at NeurIPS 2025 is allowed.
 
-## Scope and Topics
+## Main Topics
 
 In line with the motivation of this workshop, we will solicit contributions related but not limited to the following broad topics:
 
