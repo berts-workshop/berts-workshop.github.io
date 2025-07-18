@@ -25,12 +25,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: left
-    image: speakers/robinson.jpg
+    image: speakers/robinson.png
     content: speakers/robinson.md
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: right
-    image: speakers/talwalkar.jpeg
+    image: speakers/talwalkar.jpg
     content: speakers/talwalkar.md
     image_circular: false # crops the image to make it circular
     more_info: >
