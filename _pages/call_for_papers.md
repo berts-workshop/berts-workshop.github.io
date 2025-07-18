@@ -14,11 +14,11 @@ Have We Reached the BERT Moment?**
 - Acceptance notification: (**To be confirmed soon**), Oct 1, 2025 (11:59 pm AoE)
 - Camera ready deadline: (**To be confirmed soon**), Nov 19, 2025 (11:59 pm AoE)
 
-## Instructions and Formatting
+## Instructions
 
 We invite submissions in the form of short papers (up to **4 pages**). Additional pages containing references and appendices are allowed, but reviewers do not have to take the appendices into account during the review. Submissions must be formatted following this **[LaTeX style template](../assets/zip/bert2s_workshop_latex_template.zip)** and submitted as a single `.pdf` file on **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S)**. Submissions must be anonymized, along with any supplementary material, to ensure a proper_double-blind_ review process. Papers that exceed the page limit or that are not properly anonymized will be desk-rejected without review. There will be no rebuttal phase, and final decisions will be solely based on the reviews. Rejected or withdrawn submissions will not be made public. Authors of accepted submissions will be able to present a poster, and 4 selected submissions will be invited for oral talks of 15 minutes. 
 
-**Dual submission policy**: This workshop is **non-archival**; even though all accepted papers will be available on OpenReview and this website, there are no formally-published proceedings. If a paper is currently under review at another venue, it can still be submitted to this workshop. If a paper has previously appeared in a journal, workshop, or conference, it should be reasonably extended in order to be accepted at this workshop. Parallel submission of papers under review at NeurIPS 2025 is allowed.
+This workshop is **non-archival**; as such, we welcome original work, but also papers currently under review in another venue. If authors want to submit a paper that has already appeared in a journal, conference, or workshop, it should be reasonably extended. 
 
 ## Main Topics
 
