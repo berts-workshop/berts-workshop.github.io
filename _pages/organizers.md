@@ -50,7 +50,7 @@ profiles:
       <p>[website](), [scholar]()</p>
       <p>[](mailto:)</p>
   - align: left
-    image: organizers/thomas.png
+    image: organizers/ambroise.jpeg
     content: organizers/odonnat.md
     image_circular: false # crops the image to make it circular
     more_info: >
