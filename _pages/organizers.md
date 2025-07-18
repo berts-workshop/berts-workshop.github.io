@@ -42,7 +42,7 @@ profiles:
       <p>[website](), [scholar]()</p>
       <p>[](mailto:)</p>
   - align: right
-    image: organizers/vasilii.jpeg
+    image: organizers/vasilii.jpg
     content: organizers/feofanov.md
     image_circular: false # crops the image to make it circular
     more_info: >
