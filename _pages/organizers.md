@@ -14,47 +14,47 @@ profiles:
     content: organizers/moreau.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Inria (France)</p>
+      <p>[website](https://tommoral.github.io/about.html), [scholar](https://scholar.google.fr/citations?user=HEO_PsAAAAAJ)</p>
+      <p[thomas.moreau@inria.fr](mailto:thomas.moreau@inria.fr)</p>
   - align: left
     image: organizers/ievgen.jpg
     content: organizers/redko.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Inria (France)</p>
+      <p>[website](), [scholar]()</p>
+      <p>[](mailto:)</p>
   - align: right
     image: organizers/romain.jpeg
     content: organizers/tavenard.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Inria (France)</p>
+      <p>[website](), [scholar]()</p>
+      <p>[](mailto:)</p>
   - align: left
     image: organizers/valentina.jpeg
     content: organizers/zantedeschi.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Inria (France)</p>
+      <p>[website](), [scholar]()</p>
+      <p>[](mailto:)</p>
   - align: right
     image: organizers/vasilii.jpeg
     content: organizers/feofanov.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Inria (France)</p>
+      <p>[website](), [scholar]()</p>
+      <p>[](mailto:)</p>
   - align: left
     image: organizers/thomas.png
     content: organizers/odonnat.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>Inria (France)</p>
+      <p>[website](), [scholar]()</p>
+      <p>[](mailto:)</p>
 ---
