@@ -10,9 +10,9 @@ nav_order: 1
 We welcome researchers working in the field of time series analysis to submit their latest original research work to the NeurIPS 2025 workshop on **Recent Advances in Time Series Foundation Models:
 Have We Reached the BERT Moment?**
 - Submission link: **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S)**
-- Submission deadline: Aug 22, 2025 (11:59 pm AoE)
-- Acceptance notification: (**To be confirmed soon**), Oct 1, 2025 (11:59 pm AoE)
-- Camera ready deadline: (**To be confirmed soon**), Nov 19, 2025 (11:59 pm AoE)
+- Submission deadline: ~~Aug 22, 2025 (11:59 pm AoE)~~ Aug 29, 2025 (11:59 pm AoE) - **Extended**
+- Acceptance notification: Sep 22, 2025 (11:59 pm AoE)
+- Camera ready deadline: Nov 19, 2025 (11:59 pm AoE)
 
 ## Instructions
 
