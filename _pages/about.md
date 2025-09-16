@@ -28,7 +28,7 @@ The NeurIPS workshop on *Recent Advances on Time Series Foundation Models: Have 
 A hackathon will be organized shortly after the workshop to foster the development of benchmarks and applications where TSFMs can truly shine. Details will be provided in time. We look forward to welcoming you to San Diego. 
 
 **Location**: San Diego Convention Center<br>
-**Date**: Saturday 6<sup>th</sup> December 2025
+**Date**: Sunday 7<sup>th</sup> December 2025
 
 ### Introduction
 
@@ -45,7 +45,7 @@ The key topics of this workshop include, but are not limited to:
 More details are provided in our [Call for Papers](/call-for-papers/).
 
 ### Schedule
-**Saturday 7th December 2025, Meeting Room XX, San Diego Convention Center** <br>
+**Sunday 7th December 2025, Upper Level Room 24ABC, San Diego Convention Center** <br>
 This is a tentative schedule subject to change. Please take a look at the [NeurIPS website](https://neurips.cc/) for the detailed schedule.
 
 | **Time (PST)**                                | **Event**                                                                                                                                                                   |
