@@ -27,7 +27,7 @@ latest_posts:
 The NeurIPS workshop on *Recent Advances on Time Series Foundation Models: Have We Reached the BERT Moment?* will be held at the San Diego Convention Center on December 7, 2025.
 A hackathon will be organized shortly after the workshop to foster the development of benchmarks and applications where TSFMs can truly shine. Details will be provided in time. We look forward to welcoming you to San Diego. 
 
-**Location**: San Diego Convention Center<br>
+**Location**: San Diego Convention Center, Upper Level Room 24ABC<br>
 **Date**: Sunday 7<sup>th</sup> December 2025
 
 ### Introduction
