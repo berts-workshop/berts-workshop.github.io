@@ -50,23 +50,23 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 
 | **Time (PST)**                                | **Event**                                                                                                                                                                   |
 |:------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 9:30 - 09:45                  | 🥁 **Welcome and introduction**                                                                                                                                              |
-| 9:45 - 10:15                  | 📢 **Invited Talk by <a href="https://www.cs.cmu.edu/~atalwalk/">Ameet Talwalkar</a>** <br /> <small>TSFMs Struggle to Beat Supervised Baselines<small/>                                                                                       |
-| 10:20 - 10:50                 | 📢 **Invited Talk by <a href="https://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a>** <br /> <small>BERT-Style Foundation Model for Time Series Understanding<small/>                                                                           |
-| 10:50 - 11:05                 | ☕ **Coffee & Networking Break**                                                                                                             |
-| 11:10 - 11:25                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                                           |
-| 11:25 - 11:40                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                                                          |
-| 11:40 - 12:40                 | 📑 **Poster Session 1**                                                                                                                                   |
-| 12:40 - 13:40                 | 🦞 **Lunch Break**   |
-| 13:45 - 14:15                 | 📢 **Invited Talk by <a href="https://dcmaddix.github.io/">Danielle M. Robinson</a>** <br /> <small>Foundation Models and Benchmarks with Chronos and GluonTS<small/>                                                                             |
-| 14:20 - 14:50                 | 📢 **Invited Talk by <a href="https://www.zoepiran.com/en/latest/">Zoe Piran</a>** <br /> <small>Temporal Dynamics of Single-Cell Co-Essay Data<small/>                                         |
-| 14:50 - 15:05                 | ☕ **Coffee & Networking Break**                                                                                                                           |
-| 15:05 - 15:55                 | 🎓 **Pannel Discussion (<a href="https://dcmaddix.github.io/">Danielle M. Robinson</a>, <a href="https://sites.google.com/view/liuchenghao/home">Chenghao Liu</a>, <a href="https://sites.google.com/site/qingsongwen8/">Qingsong Wen</a>, <a href="https://www.cs.cmu.edu/~atalwalk/">Ameet Talwalkar</a>)**                                                                                                                                                             |
-| 15:55 - 16:10                 | ☕ **Coffee & Networking Break**                                                                                                                           |
-| 16:10 - 16:25                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                                                                              |
-| 16:25 - 16:40                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                   |
-| 16:40 - 17:40                 | 📑 **Poster Session 2**                                                                                  |
-| 17:40 - 17:55                 | 🎬 **Concluding Remarks & Hackaton Ad**                                          |
+| 8:30 - 08:45                  | 🥁 **Welcome and introduction**                                                                                                                                              |
+| 8:45 - 9:15                  | 📢 **Invited Talk by <a href="https://www.cs.cmu.edu/~atalwalk/">Ameet Talwalkar</a>** <br /> <small>TSFMs Struggle to Beat Supervised Baselines<small/>                                                                                       |
+| 9:20 - 9:50                 | 📢 **Invited Talk by <a href="https://ise.thss.tsinghua.edu.cn/~mlong/">Mingsheng Long</a>** <br /> <small>BERT-Style Foundation Model for Time Series Understanding<small/>                                                                           |
+| 9:50 - 10:05                 | ☕ **Coffee & Networking Break**                                                                                                             |
+| 10:10 - 10:25                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                                           |
+| 10:25 - 10:40                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                                                          |
+| 10:40 - 11:40                 | 📑 **Poster Session 1**                                                                                                                                   |
+| 11:45 - 12:45                 | 🦞 **Lunch Break**   |
+| 12:50 - 13:20                 | 📢 **Invited Talk by <a href="https://dcmaddix.github.io/">Danielle M. Robinson</a>** <br /> <small>Foundation Models and Benchmarks with Chronos and GluonTS<small/>                                                                             |
+| 13:25 - 13:55                 | 📢 **Invited Talk by <a href="https://www.zoepiran.com/en/latest/">Zoe Piran</a>** <br /> <small>Temporal Dynamics of Single-Cell Co-Essay Data<small/>                                         |
+| 13:55 - 14:10                 | ☕ **Coffee & Networking Break**                                                                                                                           |
+| 14:10 - 15:00                 | 🎓 **Pannel Discussion (<a href="https://dcmaddix.github.io/">Danielle M. Robinson</a>, <a href="https://sites.google.com/view/liuchenghao/home">Chenghao Liu</a>, <a href="https://sites.google.com/site/qingsongwen8/">Qingsong Wen</a>, <a href="https://www.cs.cmu.edu/~atalwalk/">Ameet Talwalkar</a>)**                                                                                                                                                             |
+| 15:00 - 15:15                 | ☕ **Coffee & Networking Break**                                                                                                                           |
+| 15:15 - 15:30                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                                                                              |
+| 15:30 - 15:45                 | 🎤 **Contributed Spotlight Talk** - <small>TBD<small/>                                                                   |
+| 15:45 - 16:45                 | 📑 **Poster Session 2**                                                                                  |
+| 16:45 - 17:00                 | 🎬 **Concluding Remarks & Hackaton Ad**                                          |
 | 19:00 - 22:00                 | 🍻 **Social Event**                                          |
 {: .table}
 {: .table-striped}
