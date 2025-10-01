@@ -15,12 +15,13 @@ Have We Reached the BERT Moment?**
 - Camera ready deadline: Nov 19, 2025 (11:59 pm AoE)
 
 ## Second Call for Papers
-We are happy to announce a second call for papers for the BERT²S workshop at NeurIPS 2025. In this round, we aim to broaden participation and discussion by welcoming accepted papers from 2025 (e.g., NeurIPS'25, ICML, ICLR), as well as innovative recent ideas (e.g., submitted to ICLR'26) that may have missed our first deadline. We will also welcome papers from the salon des refusés, from NeurIPS.
-:warning: Please note:
+We are happy to announce a second call for papers for the BERT²S workshop at NeurIPS 2025. In this round, we aim to broaden participation and discussion by welcoming accepted papers from 2025 (e.g., NeurIPS'25, ICML, ICLR), as well as innovative recent ideas (e.g., submitted to ICLR'26) that may have missed our first deadline. We will also welcome papers from the *salon des refusés*, from NeurIPS.
+
+:warning: **Please note**:
 Submissions to this second CFP will not be peer reviewed (but we will do our best to provide constructive meta-reviews).
 Accepted papers will be listed in a separate section of the program.
 They will not be eligible for spotlights but will be presented during the poster session and contribute to the workshop discussions.
-This lightweight track is designed to ensure the workshop captures the most recent advances in the field while maintaining fairness with papers accepted through the first CFP.
+This lightweight track is designed to ensure the workshop captures the most recent advances in the field while maintaining fairness with papers accepted through the first call for papers.
 - Submission link: **[Google Form](https://forms.gle/g1oVPNthPXFqakH67)**
 - Submission deadline: Oct 19, 2025 (11:59 pm AoE) 
 - Acceptance notification: Nov 1, 2025 (11:59 pm AoE)
