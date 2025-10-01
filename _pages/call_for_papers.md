@@ -14,7 +14,7 @@ Have We Reached the BERT Moment?**
 - Acceptance notification: Sep 22, 2025 (11:59 pm AoE)
 - Camera ready deadline: Nov 19, 2025 (11:59 pm AoE)
 
-## Second call for papers
+## Second Call for Papers
 We are happy to announce a second call for papers for the BERT²S workshop at NeurIPS 2025. In this round, we aim to broaden participation and discussion by welcoming accepted papers from 2025 (e.g., NeurIPS'25, ICML, ICLR), as well as innovative recent ideas (e.g., submitted to ICLR'26) that may have missed our first deadline. We will also welcome papers from the salon des refusés, from NeurIPS.
 :warning: Please note:
 Submissions to this second CFP will not be peer reviewed (but we will do our best to provide constructive meta-reviews).
