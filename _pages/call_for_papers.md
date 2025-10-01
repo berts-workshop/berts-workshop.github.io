@@ -14,6 +14,18 @@ Have We Reached the BERT Moment?**
 - Acceptance notification: Sep 22, 2025 (11:59 pm AoE)
 - Camera ready deadline: Nov 19, 2025 (11:59 pm AoE)
 
+## Second call for papers
+We are happy to announce a second call for papers for the BERT²S workshop at NeurIPS 2025. In this round, we aim to broaden participation and discussion by welcoming accepted papers from 2025 (e.g., NeurIPS'25, ICML, ICLR), as well as innovative recent ideas (e.g., submitted to ICLR'26) that may have missed our first deadline. We will also welcome papers from the salon des refusés, from NeurIPS.
+:warning: Please note:
+Submissions to this second CFP will not be peer reviewed (but we will do our best to provide constructive meta-reviews).
+Accepted papers will be listed in a separate section of the program.
+They will not be eligible for spotlights but will be presented during the poster session and contribute to the workshop discussions.
+This lightweight track is designed to ensure the workshop captures the most recent advances in the field while maintaining fairness with papers accepted through the first CFP.
+- Submission link: **[Google Form](https://forms.gle/g1oVPNthPXFqakH67)**
+- Submission deadline: Oct 19, 2025 (11:59 pm AoE) 
+- Acceptance notification: Nov 1, 2025 (11:59 pm AoE)
+- Camera ready deadline: Nov 19, 2025 (11:59 pm AoE)
+
 ## Instructions
 
 We invite submissions in the form of short papers (up to **4 pages**). Additional pages containing references and appendices are allowed, but reviewers do not have to take the appendices into account during the review. Submissions must be formatted following this **[LaTeX style template](../assets/zip/bert2s_workshop_latex_template.zip)** and submitted as a single `.pdf` file on **[OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S)**. Submissions must be anonymized, along with any supplementary material, to ensure a proper_double-blind_ review process. Papers that exceed the page limit or that are not properly anonymized will be desk-rejected without review. There will be no rebuttal phase, and final decisions will be solely based on the reviews. Rejected or withdrawn submissions will not be made public. Authors of accepted submissions will be able to present a poster, and 4 selected submissions will be invited for oral talks of 15 minutes. 
