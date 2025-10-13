@@ -44,6 +44,9 @@ The key topics of this workshop include, but are not limited to:
 
 More details are provided in our [Call for Papers](/call-for-papers/).
 
+### Accepted papers
+The list of accepted papers can be found on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S&referrer=%5BHomepage%5D(%2F)#tab-accept).
+
 ### Schedule
 **Sunday 7th December 2025, Upper Level Room 24ABC, San Diego Convention Center** <br>
 This is a tentative schedule subject to change. Please take a look at the [NeurIPS website](https://neurips.cc/) for the detailed schedule.
