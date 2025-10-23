@@ -74,6 +74,9 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 {: .table}
 {: .table-striped}
 
+### Sponsors
+Our workshop is made possible by the generous financial support of [The Forecasting Company](https://www.theforecastingcompany.com/en).
+
 ### Contact
 
 If you have questions, you can contact [Thomas Moreau](mailto:thomas.moreau@inria.fr) and [Ievgen Redko](mailto:ievgen.redko@gmail.com) or send an email to [berts2025.workshop@gmail.com](mailto:berts2025.workshop@gmail.com).
