@@ -75,7 +75,9 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 {: .table-striped}
 
 ### Sponsors
-Our workshop is made possible by the generous financial support of [The Forecasting Company](https://www.theforecastingcompany.com/en).
+We thank [Susquehanna](https://sig.com/) for sponsoring the Best Paper Award.
+
+We thank [the Forecasting Company](https://www.theforecastingcompany.com/en) that generously supported the organization of the social event for the participants of the workshop (more details to come soon).
 
 ### Contact
 
