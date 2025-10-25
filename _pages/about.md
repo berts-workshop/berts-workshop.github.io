@@ -78,7 +78,11 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 If you have questions, you can contact [Thomas Moreau](mailto:thomas.moreau@inria.fr) and [Ievgen Redko](mailto:ievgen.redko@gmail.com) or send an email to [berts2025.workshop@gmail.com](mailto:berts2025.workshop@gmail.com).
 
 ### Sponsors
-We thank [Susquehanna](https://sig.com/) for sponsoring the Best Paper Award.
-
-We thank [the Forecasting Company](https://www.theforecastingcompany.com/en) that generously supported the organization of the social event for the participants of the workshop (more details to come soon).
+  <a href="https://sig.com/" target="_blank">
+      <img src="./files_new/susquehanna_logo.png" alt="Susquehanna">
+  </a>
+  <a href="https://www.tencent.com/" target="_blank">
+      <img src="./files_new/forecasting.png" alt="The Forecasting Company">
+  </a>      
+We thank [Susquehanna](https://sig.com/) for sponsoring the Best Paper Award. We thank [the Forecasting Company](https://www.theforecastingcompany.com/en) that generously supported the organization of the social event for the participants of the workshop (more details to come soon).
 
