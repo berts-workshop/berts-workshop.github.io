@@ -79,10 +79,10 @@ If you have questions, you can contact [Thomas Moreau](mailto:thomas.moreau@inri
 
 ### Sponsors
   <a href="https://sig.com/" target="_blank">
-      <img src="/assets/img/susquehanna_logo.png" alt="Susquehanna">
+      <img src="/assets/img/susquehanna_logo.png" alt="Susquehanna" width="200">
   </a>
   <a href="https://www.theforecastingcompany.com/en/" target="_blank">
-      <img src="/assets/img/TFC_LOGO_original.png" alt="The Forecasting Company">
+      <img src="/assets/img/TFC_LOGO_original.png" alt="The Forecasting Company" width="200">
   </a>      
 We thank [Susquehanna](https://sig.com/) for sponsoring the Best Paper Award. We thank [the Forecasting Company](https://www.theforecastingcompany.com/en) that generously supported the organization of the social event for the participants of the workshop (more details to come soon).
 
