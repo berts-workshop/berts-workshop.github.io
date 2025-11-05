@@ -7,6 +7,8 @@ nav: true
 nav_order: 1
 ---
 
+Our proceedings can be found on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S&referrer=%5BHomepage%5D(%2F)#tab-accept).
+
 ## Selected for an Oral Presentation
 
 - **Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models** -- Ethan Baron, Boris N. Oreshkin, Ruijun Ma, Hanyu Zhang, Kari Torkkola, Michael W. Mahoney, Andrew Gordon Wilson, Tatiana Konstantinova
