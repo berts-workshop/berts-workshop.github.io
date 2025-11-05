@@ -45,7 +45,12 @@ The key topics of this workshop include, but are not limited to:
 More details are provided in our [Call for Papers](/call-for-papers/).
 
 ### Accepted papers
-The list of accepted papers can be found on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S&referrer=%5BHomepage%5D(%2F)#tab-accept).
+The full list of accepted papers can be found [here](/accepted-papers/).
+The following papers were selected for an oral presentation.
+- **Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models** -- Ethan Baron, Boris N. Oreshkin, Ruijun Ma, Hanyu Zhang, Kari Torkkola, Michael W. Mahoney, Andrew Gordon Wilson, Tatiana Konstantinova
+- **Pre-trained Forecasting Models: Strong Zero-Shot Feature Extractors for Time Series Classification** -- Andreas Auer, Daniel Klotz, Sebastian Böck, Sepp Hochreiter
+- **FlowState: Sampling-Rate Invariant Time Series Foundation Model with Dynamic Forecasting Horizons** -- Lars Graf, Thomas Ortner, Stanisław Woźniak, Angeliki Pantazi
+- **CHRONOGRAPH: A Real-World Graph-Based Multivariate Time Series Dataset** -- Luțu Adrian-Cătălin, Ioana Pintilie, Andrei Manolache, Elena Burceanu
 
 ### Schedule
 **Sunday 7th December 2025, Upper Level Room 24ABC, San Diego Convention Center** <br>
