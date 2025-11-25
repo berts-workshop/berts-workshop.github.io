@@ -75,7 +75,7 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 | 15:30 - 15:45                 | 🎤 **Contributed Spotlight Talk by <a href="https://www.linkedin.com/in/lutu-adrian-7a1b8526b/">Luțu Adrian-Cătălin</a>** - <small>CHRONOGRAPH: A Real-World Graph-Based Multivariate Time Series Dataset<small/>                                                                   |
 | 15:45 - 16:45                 | 📑 **Poster Session 2**                                                                                  |
 | 16:45 - 17:00                 | 🎬 **Concluding Remarks & Hackaton Ad**                                          |
-| 19:00 - 22:00                 | 🍻 **Social Event**                                          |
+| 17:30 - 20:30                 | 🍻 **Social Event**                                          |
 {: .table}
 {: .table-striped}
 
