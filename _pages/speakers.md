@@ -9,19 +9,14 @@ nav_order: 2
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+    - align: left
+    image: speakers/kraus.jpeg
+    content: speakers/kraus.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
   - align: right
     image: speakers/liu.jpg
     content: speakers/liu.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-  - align: left
-    image: speakers/long.jpg
-    content: speakers/long.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-  - align: right
-    image: speakers/piran.jpg
-    content: speakers/piran.md
     image_circular: false # crops the image to make it circular
     more_info: >
   - align: left
