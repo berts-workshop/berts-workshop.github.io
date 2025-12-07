@@ -34,7 +34,7 @@ A hackathon will be organized shortly after the workshop to foster the developme
 
 We are excited to announce a social mixer for all workshop participants, generously sponsored by [The Forecasting Company](https://www.theforecastingcompany.com/en). The event will take place on Sunday, December 7th, from 5:30 PM to 8:30 PM, immediately following the workshop sessions. This mixer will provide an excellent opportunity for attendees to network, share ideas, and discuss the latest advancements in time series foundation models in a relaxed and informal setting. We look forward to seeing you there for an evening of engaging conversations and connections!
 
-REgister for the workshop and social event [here](https://luma.com/wnqz9wix).
+You can register for the workshop and social event [here](https://luma.com/wnqz9wix) or scan the QR code below.
 <img src="https://berts-workshop.github.io/social-mixer-qr.png" alt="Social Event" width="600">
 
 ### Introduction
