@@ -7,7 +7,7 @@ nav: true
 nav_order: 1
 ---
 
-Our proceedings can be found on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S&referrer=%5BHomepage%5D(%2F)#tab-accept).
+All the accepted papers can be found in the [OpenReview proceedings](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S&referrer=%5BHomepage%5D(%2F)#tab-accept).
 
 ## Best Paper Award
 Congrats to the authors of [**FlowState: Sampling-Rate Invariant Time Series Foundation Model with Dynamic Forecasting Horizons**](https://openreview.net/pdf?id=R50AT6nAsM) for winning the best paper award sponsored by Susquehanna. 
