@@ -9,6 +9,9 @@ nav_order: 1
 
 Our proceedings can be found on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/BERT2S&referrer=%5BHomepage%5D(%2F)#tab-accept).
 
+## Best Paper Award
+Congrats to the authors of [**FlowState: Sampling-Rate Invariant Time Series Foundation Model with Dynamic Forecasting Horizons**](https://openreview.net/pdf?id=R50AT6nAsM) for winning the best paper award sponsored by Susquehanna. 
+
 ## Selected for an Oral Presentation
 
 - **Efficiently Generating Correlated Sample Paths from Multi-step Time Series Foundation Models** -- Ethan Baron, Boris N. Oreshkin, Ruijun Ma, Hanyu Zhang, Kari Torkkola, Michael W. Mahoney, Andrew Gordon Wilson, Tatiana Konstantinova
