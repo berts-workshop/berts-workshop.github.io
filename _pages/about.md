@@ -30,12 +30,6 @@ A hackathon will be organized shortly after the workshop to foster the developme
 **Location**: San Diego Convention Center, Upper Level Room 3<br>
 **Date**: Sunday 7<sup>th</sup> December 2025
 
-### Social Mixer (sponsored by The Forecasting Company)
-
-We are excited to announce a social mixer for all workshop participants, generously sponsored by [The Forecasting Company](https://www.theforecastingcompany.com/en). The event will take place on Sunday, December 7th, from 5:30 PM to 8:30 PM, immediately following the workshop sessions. This mixer will provide an excellent opportunity for attendees to network, share ideas, and discuss the latest advancements in time series foundation models in a relaxed and informal setting. We look forward to seeing you there for an evening of engaging conversations and connections!
-
-You can register for the workshop and social event [here](https://luma.com/wnqz9wix).
-
 ### Introduction
 
 Foundation models (FMs) have achieved great success in NLP and vision, inspiring over 20 new time series FMs (TSFMs) in the past year. Despite promising results, studies show that carefully designed lightweight supervised baselines often match TSFM performance. Unlike NLP's "BERT Moment," TSFMs still require full fine-tuning to be competitive in real-world scenarios. Additionally, some tabular FMs rival TSFMs without being time series-specific. Recent benchmarks also provide mixed evidence: GIFT-Eval favors TSFMs, OpenTS shows statistical models outperforming deep learning on univariate data, and FoundTS finds supervised baselines on par with TSFMs. This workshop aims to bring together researchers to examine the gap between TSFM potential and real-world utility, and to identify benchmarks and applications where TSFMs can truly excel.
@@ -84,6 +78,12 @@ This is a tentative schedule subject to change. Please take a look at the [NeurI
 | 17:30 - 20:30                 | 🍻 **Social Event**                                          |
 {: .table}
 {: .table-striped}
+
+### Social Mixer (sponsored by The Forecasting Company)
+
+We are excited to announce a social mixer for all workshop participants, generously sponsored by [The Forecasting Company](https://www.theforecastingcompany.com/en). The event will take place on Sunday, December 7th, from 5:30 PM to 8:30 PM, immediately following the workshop sessions. This mixer will provide an excellent opportunity for attendees to network, share ideas, and discuss the latest advancements in time series foundation models in a relaxed and informal setting. We look forward to seeing you there for an evening of engaging conversations and connections!
+
+You can register for the workshop and social event [here](https://luma.com/wnqz9wix).
 
 ### Contact
 If you have questions, you can contact [Thomas Moreau](mailto:thomas.moreau@inria.fr) and [Ievgen Redko](mailto:ievgen.redko@gmail.com) or send an email to [berts2025.workshop@gmail.com](mailto:berts2025.workshop@gmail.com).
