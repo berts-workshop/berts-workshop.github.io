@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/accepted-papers/";
           },
-        },{id: "nav-call-for-papers",
-          title: "Call for Papers",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/call-for-papers/";
-          },
         },{id: "nav-blog",
           title: "blog",
           description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/blog/";
+          },
+        },{id: "nav-call-for-papers",
+          title: "Call for Papers",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/call-for-papers/";
           },
         },{id: "nav-speakers",
           title: "Speakers",
