@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /bert_moment/
-title: BERT Moment?
+permalink: /panel-discussion/
+title: Panel Discussion
 description:
 nav: false
 nav_order: 2
