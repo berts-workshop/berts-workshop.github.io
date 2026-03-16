@@ -3,7 +3,7 @@ layout: page
 permalink: /bert_moment/
 title: BERT Moment?
 description:
-nav: true
+nav: false
 nav_order: 2
 ---
 
