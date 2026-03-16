@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /panel/
-title: Panel
+permalink: /bert_moment/
+title: BERT Moment?
 description:
 nav: true
 nav_order: 2
