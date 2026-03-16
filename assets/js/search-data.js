@@ -16,13 +16,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/accepted-papers/";
           },
-        },{id: "nav-bert-moment",
-          title: "BERT Moment?",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/bert_moment/";
-          },
         },{id: "nav-call-for-papers",
           title: "Call for Papers",
           description: "",
