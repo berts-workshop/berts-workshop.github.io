@@ -3,7 +3,7 @@ layout: page
 permalink: /panel-discussion/
 title: Panel Discussion
 description:
-nav: false
+nav: true
 nav_order: 2
 ---
 
