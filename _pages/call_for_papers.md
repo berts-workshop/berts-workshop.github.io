@@ -4,7 +4,7 @@ permalink: /call-for-papers/
 title: Call for Papers
 description:
 nav: true
-nav_order: 1
+nav_order: 5
 ---
 
 We welcome researchers working in the field of time series analysis to submit their latest original research work to the NeurIPS 2025 workshop on **Recent Advances in Time Series Foundation Models:
