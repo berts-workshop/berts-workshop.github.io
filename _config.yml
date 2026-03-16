@@ -88,7 +88,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Panel discussion # blog_name will be displayed in your blog page
-blog_description: Have We Reached the “BERT Moment” for Time Series? 
+blog_description: Have we reached the “BERT Moment” for Time Series? 
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
